@@ -37,13 +37,18 @@ Pothole_Detector/
 
 📈 Evaluation Metrics
 Detection Accuracy
+
 IoU for bounding boxes
+
 Path deviation from shortest route
+
 Speed impact due to detours
 
 📌 Future Work
 Integrate into autonomous vehicle simulators like CARLA
+
 Extend to real-time video feeds
+
 Include road quality prediction module
 
 🧑‍💻 Author
