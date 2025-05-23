@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Verilog/FPGA_Mini/FPGA_Mini.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sim_1/new/PE_Generic_tb.v,1745945951,verilog,,,,PE_Generic_tb,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/PE_Generic.v,1745944981,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/complex_adder.v,,PE_Generic,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/complex_adder.v,1745423409,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/complex_multiplier.v,,complex_adder,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/complex_multiplier.v,1745941288,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/conjugation_module.v,,complex_multiplier,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/conjugation_module.v,1745941297,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/mux_2to1.v,,conjugation_module,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/mux_2to1.v,1745423370,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/mux_4to1.v,,mux_2to1,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/mux_4to1.v,1745423383,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/negation.v,,mux_4to1,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/negation.v,1745941305,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/register_module.v,,negation_module,,,,,,,,
+D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sources_1/new/register_module.v,1745423396,verilog,,D:/Verilog/FPGA_Mini/FPGA_Mini.srcs/sim_1/new/PE_Generic_tb.v,,register_module,,,,,,,,

@@ -1,0 +1,7 @@
+Running: xsim.dir/PE_Generic_Vector_Addition_tb_behav/xsimk.exe -simmode gui -wdb PE_Generic_Vector_Addition_tb_behav.wdb -simrunnum 0 -socket 49918
+Design successfully loaded
+Design Loading Memory Usage: 29532 KB (Peak: 29532 KB)
+Design Loading CPU Usage: 1421 ms
+Simulation completed
+Simulation Memory Usage: 30388 KB (Peak: 30388 KB)
+Simulation CPU Usage: 1499 ms

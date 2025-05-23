@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Apr 29 22:57:21 2025
+# Process ID         : 7972
+# Current directory  : D:/Verilog/FPGA_Mini/FPGA_Mini.runs/synth_1
+# Command line       : vivado.exe -log PE_Generic.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PE_Generic.tcl
+# Log file           : D:/Verilog/FPGA_Mini/FPGA_Mini.runs/synth_1/PE_Generic.vds
+# Journal file       : D:/Verilog/FPGA_Mini/FPGA_Mini.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-JLHB4U1L
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17041 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18114 MB
+# Available Virtual  : 3621 MB
+#-----------------------------------------------------------
+source PE_Generic.tcl -notrace

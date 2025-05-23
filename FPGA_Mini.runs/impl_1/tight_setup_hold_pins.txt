@@ -1,0 +1,36 @@
++====================+===================+============================+
+| Launch Setup Clock | Launch Hold Clock | Pin                        |
++====================+===================+============================+
+| clk                | clk               | reg6/output_data_reg[5]/D  |
+| clk                | clk               | reg6/output_data_reg[7]/D  |
+| clk                | clk               | reg6/output_data_reg[13]/D |
+| clk                | clk               | reg6/output_data_reg[15]/D |
+| clk                | clk               | reg6/output_data_reg[6]/D  |
+| clk                | clk               | reg6/output_data_reg[14]/D |
+| clk                | clk               | reg6/output_data_reg[3]/D  |
+| clk                | clk               | reg6/output_data_reg[12]/D |
+| clk                | clk               | reg5/output_data_reg[13]/D |
+| clk                | clk               | reg5/output_data_reg[15]/D |
+| clk                | clk               | reg6/output_data_reg[11]/D |
+| clk                | clk               | reg6/output_data_reg[2]/D  |
+| clk                | clk               | reg6/output_data_reg[1]/D  |
+| clk                | clk               | reg6/output_data_reg[10]/D |
+| clk                | clk               | reg5/output_data_reg[14]/D |
+| clk                | clk               | reg5/output_data_reg[11]/D |
+| clk                | clk               | reg6/output_data_reg[9]/D  |
+| clk                | clk               | reg5/output_data_reg[7]/D  |
+| clk                | clk               | reg5/output_data_reg[10]/D |
+| clk                | clk               | reg5/output_data_reg[6]/D  |
+| clk                | clk               | reg7/output_data_reg[6]/D  |
+| clk                | clk               | reg5/output_data_reg[4]/D  |
+| clk                | clk               | reg7/output_data_reg[5]/D  |
+| clk                | clk               | reg7/output_data_reg[2]/D  |
+| clk                | clk               | reg5/output_data_reg[9]/D  |
+| clk                | clk               | reg7/output_data_reg[12]/D |
+| clk                | clk               | reg7/output_data_reg[14]/D |
+| clk                | clk               | reg6/output_data_reg[8]/D  |
+| clk                | clk               | reg7/output_data_reg[4]/D  |
+| clk                | clk               | reg7/output_data_reg[9]/D  |
+| clk                | clk               | reg7/output_data_reg[11]/D |
+| clk                | clk               | reg7/output_data_reg[8]/D  |
++--------------------+-------------------+----------------------------+
